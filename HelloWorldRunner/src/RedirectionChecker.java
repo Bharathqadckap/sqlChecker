@@ -19,6 +19,7 @@ public class RedirectionChecker {
 	public static void main(String[] args) throws IOException {
 
 		HtmlUnitDriver driver = new HtmlUnitDriver();
+		//added a comment line
 		// load properties from property file
 		propy = new Properties();
 		InputStream propertyStream = RedirectionChecker.class.getResourceAsStream("application.properties");
