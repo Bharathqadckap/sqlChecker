@@ -22,7 +22,7 @@ public class RedirectionChecker {
 		//added another comment
 		//addded a new coment
 		//addded a comment
-		
+		//added a comment again
 		//added a comment again
 		propy = new Properties();
 		InputStream propertyStream = RedirectionChecker.class.getResourceAsStream("application.properties");
