@@ -21,7 +21,6 @@ public class RedirectionChecker {
 		HtmlUnitDriver driver = new HtmlUnitDriver();
 		//added another commenta
 		//added another commenta
-		//added another comments
 		propy = new Properties();
 		InputStream propertyStream = RedirectionChecker.class.getResourceAsStream("application.properties");
 		propy.load(propertyStream);
