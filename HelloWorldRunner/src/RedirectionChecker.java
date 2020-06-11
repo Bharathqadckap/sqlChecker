@@ -22,6 +22,7 @@ public class RedirectionChecker {
 		//added another commenta
 		//added another comment
 		//added another comment
+		//added another comment
 		propy = new Properties();
 		InputStream propertyStream = RedirectionChecker.class.getResourceAsStream("application.properties");
 		propy.load(propertyStream);
