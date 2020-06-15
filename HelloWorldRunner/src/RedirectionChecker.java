@@ -19,11 +19,7 @@ public class RedirectionChecker {
 	public static void main(String[] args) throws IOException {
 
 		HtmlUnitDriver driver = new HtmlUnitDriver();
-		//added another commenta
-		//added another comment
-		//added another comment
-		//added another comment
-		propy = new Properties();
+		//added a new comment
 		InputStream propertyStream = RedirectionChecker.class.getResourceAsStream("application.properties");
 		propy.load(propertyStream);
 		// assign property values to local variables
