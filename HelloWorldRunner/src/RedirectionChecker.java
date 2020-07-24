@@ -22,6 +22,7 @@ public class RedirectionChecker {
 		//added a new comment
 		//added a new comment
 		//added a new comment
+		//added a new comment
 		InputStream propertyStream = RedirectionChecker.class.getResourceAsStream("application.properties");
 		propy.load(propertyStream);
 		// assign property values to local variables
